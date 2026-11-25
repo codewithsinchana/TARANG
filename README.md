@@ -1,4 +1,4 @@
-# TARANG - Web-Based Interactive 3D Ocean Visualization Platform
+# TARANG - Web-Based Interactive 3D Ocean Visualization Platform : 
 
 **Smart India Hackathon 2026 · Problem Statement 26067**
 **Sponsor: Ministry of Earth Sciences (MoES) / INCOIS · Category: Software · Theme: Smart Automation**
